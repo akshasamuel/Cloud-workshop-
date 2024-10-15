@@ -1,0 +1,77 @@
+15.10.2024 
+Tuesday 
+
+AZURE WORKSHOP - DAY 1
+SESSION 1
+
+What is Cloud ?
+Accessing the resources over the internet.
+
+What is Cloud computing?
+The on demand delievery of IT resources such as databases, storage, application etc..with pay as you go pricing 
+
+Types of Cloud Services:
+
+Infrastructure as a service:
+ It offers virtualized computing resources. Virtual machines and servers are used to host a wide range of applications 
+
+Platform as a Service:
+Tools provided over the internet for making programs and applications (to create custom software)
+
+Software as a Service:
+Applications and programs that are accessed and provided over the internet 
+
+Scalability :
+Automatically altered according to the incoming network traffic. The cloud providers handle it by adjusting it as per the need when the incoming traffics are high.
+
+Accessibility:
+The ability to access a shared document from anywhere over the internet 
+
+
+Automatic software updates : 
+The updates are done automatically and no manual actions required 
+
+Case study - example: Spotify & Snapchat 
+
+Challenges in cloud adoption :
+
+Strengths - Scalability and Cost efficient 
+Weakness - dependence on internet connectivity , Data security & privacy (cannot store very sensitive data)
+
+Opportunities:
+Growing market demand due to development in IT
+
+||AZURE ||
+
+Azure - one of the largest cloud service provider 
+Core Architectural components:
+
+Azure regions:
+Geographical locations where datas are maintained and stored (organises data centers)
+
+Availability Zones:
+One or more data centers that house many servers - subdivides regions
+
+Azure data centers:
+Stores group of servers 
+
+Azure resources:
+Used to access and manage the services that are provided 
+
+Azure Sovereign regions:
+US and China
+
+Azure policies:
+Set of rules which has effects to our resources 
+
+Azure subscriptions:
+It depends based on the user's usage 
+Try Azure for free & Pay as you go.
+
+How to create a resource groups in Microsoft Azure?
+
+* Sign in to Azure portal 
+* Click on resource groups 
+* Select create 
+* Enter the subscription, resource group name and select the region 
+* Press the create button
